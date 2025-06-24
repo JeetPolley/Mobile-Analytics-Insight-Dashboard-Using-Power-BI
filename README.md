@@ -1,0 +1,2 @@
+# Mobile-Analytics-Insight-Dashboard-Using-Power-BI
+Mobile Sales Data Dashboard (Power BI Project)  Created an interactive Power BI dashboard to analyze Motorola mobile sales data, highlighting key metrics like total sales (₹308M), transaction volume, and average order value.  Used visual tools (maps, charts, and slicers) to explore trends by city, brand, model, payment method, and time period.
